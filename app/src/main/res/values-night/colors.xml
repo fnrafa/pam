@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#232946</color>
+    <color name="headline">#fffffe</color>
+    <color name="paragraph">#b8c1ec</color>
+    <color name="component">#eebbc3</color>
+    <color name="component_text">#232946</color>
+    <color name="stroke">#121629</color>
+    <color name="main">#b8c1ec</color>
+    <color name="highlight">#eebbc3</color>
+    <color name="secondary">#fffffe</color>
+    <color name="tertiary">#eebbc3</color>
+</resources>
